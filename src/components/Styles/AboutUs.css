@@ -1,0 +1,38 @@
+
+.about-section {
+    
+    background-image: url("../Assets/Rectangle\ 9266.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 30px;
+   
+
+}
+
+.about-content {
+    text-align: center;
+
+}
+.about-content p {
+    margin: 30px auto;
+    text-align: justify;
+    max-width: 85%;
+    line-height: 30px;
+    font-weight: bold;
+}
+
+.about-content button {
+    background-image: url("../Assets/btn-img.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-color: transparent;
+    color: white;
+    font-weight: bold;
+    padding: 10px 18px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    display: inline-block;
+}
