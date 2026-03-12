@@ -6,7 +6,6 @@ function AboutUs() {
       <section className="about-section">
         <div className="about-content">
         <h1>ABOUT US</h1>
-        
           <p>
             The KGF is not just an organization, it’s a movement. It’s about
             harnessing the collective potential of the Kamma community across

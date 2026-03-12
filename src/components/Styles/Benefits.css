@@ -1,0 +1,60 @@
+.benefits-section {
+  background-image: url("../Assets/Rectangle\ 9222.png");
+  width: 100%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  padding: 30px 60px 50px 60px;
+}
+
+.benefits-scroll-wrapper {
+  position: relative;
+  display: inline-block;
+}
+
+.benefits-header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.benefits-img {
+  width: 250px; 
+  display: block;
+}
+
+.benefits-title {
+  position: absolute;
+  top: 46%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: #000000;
+  margin: 0;
+  white-space: nowrap;
+}
+
+.benefits-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  max-width: 85%;
+  margin: 0 auto;
+  
+}
+
+.benefits-col {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  margin: auto;
+}
+
+.benefits-col p {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: #000000;
+  margin: 0 0 22px 0;
+  padding: 0;
+  line-height: 1.2;
+  text-align: left;
+}
+
